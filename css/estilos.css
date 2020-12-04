@@ -3,3 +3,9 @@ body {
   font-family: "Arial";
   color: green;
 }
+
+#container {
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 20px;
+}
