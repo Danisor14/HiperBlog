@@ -7,5 +7,16 @@ body {
 #container {
   border: 2px solid black;
   border-radius: 15px;
-  margin: 20px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#cabecera {
+  align-items: flex-start;
+  background-color: blueviolet;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
 }
